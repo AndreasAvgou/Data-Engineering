@@ -1,6 +1,6 @@
 # Data Engineering
 
-Summary of all data engineering projects 
+Summary of data engineering projects 
 
 1) [Simple Data Engineering Project](https://github.com/AndreasAvgou/Simple-Data-Engineering-Project)
 2) [Sorting Algorithm Performance Comparison](https://github.com/AndreasAvgou/Sorting-Algorithm-Performance-Comparison)
