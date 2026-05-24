@@ -1,4 +1,12 @@
-# Data Engineering
+<div align="center">
+  
+  <img width="2000" height="717" alt="Napa-Data-Engineering-Image" src="https://github.com/user-attachments/assets/62aed5f4-f519-476f-a7ee-7900cbd498fd" />
+
+
+ # Data Engineering
+  
+</div>
+
 
 Summary of data engineering
 
